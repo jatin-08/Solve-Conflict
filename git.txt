@@ -1,1 +1,2 @@
 Hello World from Jatin Yadav and I working on the git conflict and how to solve it.
+We are working on creating and solving the git conflict.
