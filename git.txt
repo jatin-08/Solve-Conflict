@@ -1,3 +1,6 @@
 my name is anupam verma ia am workin in asmadiya technology as an backend Developer
 today is jatin yadav's bairthday but he is not willing to giv us party
  and I working on the git conflict and how to solve it.
+first_name="anupam"
+last name="verma"
+print(first_name +" " +"last name)
